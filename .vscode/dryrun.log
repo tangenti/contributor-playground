@@ -1,0 +1,9 @@
+make -f /home/tangent/go/src/github.com/tangenti/contributor-playground/central/Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/tangent/go/src/github.com/tangenti/contributor-playground'
+make: Leaving directory '/home/tangent/go/src/github.com/tangenti/contributor-playground'
+ 
+make: /home/tangent/go/src/github.com/tangenti/contributor-playground/central/Makefile: No such file or directory
+make: *** No rule to make target '/home/tangent/go/src/github.com/tangenti/contributor-playground/central/Makefile'.
+make: Failed to remake makefile '/home/tangent/go/src/github.com/tangenti/contributor-playground/central/Makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+
